@@ -1,0 +1,18 @@
+{
+  "best_model": "Extra Trees",
+  "rows": 15,
+  "reports": {
+    "Ridge Regression": {
+      "MAE (INR)": 16175.97,
+      "RMSE (INR)": 18968.02,
+      "R\u00b2": -1.851,
+      "5-fold CV MAE (INR)": 13627.67
+    },
+    "Extra Trees": {
+      "MAE (INR)": 10326.19,
+      "RMSE (INR)": 11448.68,
+      "R\u00b2": -0.039,
+      "5-fold CV MAE (INR)": 16548.92
+    }
+  }
+}
